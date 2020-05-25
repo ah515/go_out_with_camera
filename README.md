@@ -1,4 +1,4 @@
-# gooutwithcamera
+# go_out_with_camera
 
 私の趣味の1つに写真撮影があります。身の回りや出掛先で写真を撮って楽しんでいます。
 
